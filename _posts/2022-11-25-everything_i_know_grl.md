@@ -5,8 +5,8 @@ date: 2022-11-25
 permalink: /everything_i_know_grl
 ---
 
-I am leaning _very heavily_ on Hamilton's (Graph Representation Learning Book)(https://www.cs.mcgill.ca/~wlh/grl_book/) 
-and the Stanford (CS224W Course: Machine Learning with Graphs)[https://web.stanford.edu/class/cs224w/]
+I am leaning _very heavily_ on Hamilton's [Graph Representation Learning Book](https://www.cs.mcgill.ca/~wlh/grl_book/) 
+and the Stanford [CS224W Course: Machine Learning with Graphs](https://web.stanford.edu/class/cs224w/)
 
 For a comprehensive overview - look to the above resources.
 Below are essentially my notes and learnings derived from them, and so will have a very similar structure.
