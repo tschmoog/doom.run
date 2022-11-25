@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Everything I know about graph representation learning
+title: "Everything I know about graph representation learning"
 date: 2022-11-25
+permalink: /everything_i_know_grl
 ---
 
 I am leaning _very heavily_ on Hamilton's (Graph Representation Learning Book)(https://www.cs.mcgill.ca/~wlh/grl_book/) 
