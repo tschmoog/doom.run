@@ -26,9 +26,7 @@ Where G is your entire graph, consisting of V (for nodes, also known as vertices
 
 I like food and I feel it is a relatable concept (who doesn't eat?!) so the remainder of this post will centre around an ingredient based dataset and the relationships that exist between them.
 
-Here is a graph of 1000 random recipes. Each node (blue dot) is an individual ingredient and the connections between them indicate that they share a recipe together:
-
-![random recipes](/random_1000_recipes_graph.png)
+Here is a graph of a recipe of
 
 ### So what can we do with machine learning on graphs so far?
 
