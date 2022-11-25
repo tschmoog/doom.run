@@ -28,7 +28,7 @@ I like food and I feel it is a relatable concept (who doesn't eat?!) so the rema
 
 Here is a graph of 1000 random recipes. Each node (blue dot) is an individual ingredient and the connections between them indicate that they share a recipe together:
 
-![random recipes](/random_1000_recipes_graph.png)
+![random recipes](/everything_i_know_grl/random_1000_recipes_graph.png)
 
 ### So what can we do with machine learning on graphs so far?
 
