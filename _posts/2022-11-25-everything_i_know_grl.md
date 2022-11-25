@@ -35,6 +35,12 @@ Here is a graph of 1000 random recipes. Each node (blue dot) is an individual in
 
 ![random recipes](/assets/everything_i_know_grl/random_1000_recipes_graph.png)
 
+As you can see, it's a mess, so much so that I didn't bother labelling which ingredient corresponds to what node. 
+There is, however, useful information in this graph - it's just not obvious visually. 
+Because of this we need to build out a toolkit that lets us understand the structure of the graph. 
+We will start with traditional techniques, but the ultimate goal is to use machine learning to extract information.
+Lets jump ahead for a moment to see where we are looking to end up. 
+
 ### So what can we do with machine learning on graphs so far?
 
 #### Node classification
