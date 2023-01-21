@@ -25,7 +25,7 @@ An intuitive example of this is a family tree - you have people, and their relat
 
 Mathematically this is represented as:
 
-$$ G = (V,E) $$
+$G = (V,E)$
 
 Where G is your entire graph, consisting of V (for nodes, also known as vertices) and E for edges.
 
