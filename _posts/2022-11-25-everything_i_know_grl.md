@@ -27,6 +27,14 @@ Mathematically this is represented as:
 
 $G = (V,E)$
 
+$$G = (V,E)$$
+
+G = (V,E)
+
+$G = (V,E)
+
+$$G = (V,E)
+
 Where G is your entire graph, consisting of V (for nodes, also known as vertices) and E for edges.
 
 I like food and I feel it is a relatable concept (who doesn't eat?!) so the remainder of this post will centre around an ingredient based dataset and the relationships that exist between them.
